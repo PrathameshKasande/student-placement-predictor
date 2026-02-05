@@ -10,7 +10,7 @@ venv/
 .ipynb_checkpoints/
 
 # ML artifacts
-scaler.pkl
+
 
 # OS files
 .DS_Store
