@@ -2,4 +2,4 @@
 
 My Live app link: 
 
-https://student-placement-predictor-uyfq.onrender.com
+https://student-placement-predictor-flep.onrender.com
